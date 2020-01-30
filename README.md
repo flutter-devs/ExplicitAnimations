@@ -1,5 +1,5 @@
 # explicit_animation
-
+This is a demo of Explicit Animation in flutter
 A new Flutter application.
 
 ## Getting Started
